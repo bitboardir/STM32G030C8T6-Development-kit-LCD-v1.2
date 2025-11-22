@@ -26,5 +26,5 @@ A simple, stable, and cost-effective development board based on the **STM32G030C
 ---
 ## For programm MCU with USB Type-c Cable set this config in STM32CubeProgrammer and click connect:
 <p align="center">
-  <img src="2-CubeProgrammer_config.PNG" alt="CubeProgrammer config" width="700">
+  <img src="2-CubeProgrammer_config.PNG" alt="CubeProgrammer config" width="300">
 </p>
