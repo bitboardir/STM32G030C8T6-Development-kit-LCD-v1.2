@@ -10,7 +10,7 @@ A simple, stable, and cost-effective development board based on the **STM32G030C
 - **SRAM**: 8 KB
 - **EEPROM**: External AT24C256 via I2C for non-volatile data storage
 - **Buzzer**: Passive buzzer for alerts or audio feedback
-- **Display Connector**: For 132x64 graphical LCD (SPI interface)
+- **Display Connector**: For 132x64 graphical LCD (Parallel interface with controller ST7565 / UC1701)
 - **User Input**:
   - 3 Push buttons (e.g. Menu, Settings, Reset)
 - **Clock Sources**:
